@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+h1{
+  font-weight: bold;
+  margin-top: 20px;
+}
+h2{
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+button{
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+}
